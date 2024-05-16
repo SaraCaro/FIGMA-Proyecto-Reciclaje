@@ -1,6 +1,7 @@
 # Proyecto de Reutilización de Productos con Figma
 
 ¡Bienvenido a mi proyecto de reutilización de productos diseñado con Figma! Este proyecto fue creado como parte de mi práctica en el curso de diseño de experiencia de usuario (UX), donde exploré conceptos de diseño y creé prototipos interactivos utilizando la herramienta Figma.
+Este proyecto se ha trabajado con la metodología del Design Thinking ya que me quise centrar en los usuarios y ver cuales eran sus necesidades dentro del mundo del reciclaje y darles una solución. La conclusión que saqué fue la de realizar una página web con ideas de proyectos para que la gente supiera como darles uso a sus productos en casa.
 
 ## Descripción
 
